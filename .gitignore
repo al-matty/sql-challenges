@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow only this file, sql & md files + license
+!*.sql
+!*.md
+!.gitignore
+!LICENSE
+
+# Allow directories (so .gitignore rules can apply within them)
+!*/
