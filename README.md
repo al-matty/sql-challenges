@@ -35,6 +35,6 @@ Practice solutions for SQL problems, starting with the **[LeetCode SQL 50](https
 | 006 | `Leetcode SQL 50/006-replace-employee-id.sql`                    |
 | 007 | `Leetcode SQL 50/007-product-sales-analysis-1.sql`               |
 | 008 | `Leetcode SQL 50/008-customer-visiting-without-transactions.sql` |
-  ...    ...
+  ... |  ...
 | 050 | `Leetcode SQL 50/050-find-valid-e-mails.sql` |
 ---
